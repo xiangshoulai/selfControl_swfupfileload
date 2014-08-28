@@ -1,0 +1,5 @@
+d:\profiles\xiangshoulai\桌面\MutiUpFile\MutiUpFile\bin\MutiUpFile.dll
+d:\profiles\xiangshoulai\桌面\MutiUpFile\MutiUpFile\bin\MutiUpFile.pdb
+d:\profiles\xiangshoulai\桌面\MutiUpFile\MutiUpFile\obj\Debug\ResolveAssemblyReference.cache
+d:\profiles\xiangshoulai\桌面\MutiUpFile\MutiUpFile\obj\Debug\MutiUpFile.dll
+d:\profiles\xiangshoulai\桌面\MutiUpFile\MutiUpFile\obj\Debug\MutiUpFile.pdb
